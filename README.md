@@ -19,6 +19,7 @@ Installation
 Install the plugin using the cordova command line utility:
 
 `$ npm i git+https://github.com/8bhsolutions/cordova-plugin-powermanagement.git`
+
 `$ cordova plugin add https://github.com/8bhsolutions/cordova-plugin-powermanagement.git`
 
 Usage
